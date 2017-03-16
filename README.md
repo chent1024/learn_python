@@ -1,2 +1,2 @@
 # learn_python
-python学习源代码
+python练习源代码
